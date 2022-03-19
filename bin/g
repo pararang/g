@@ -69,6 +69,10 @@ display_g_version() {
 display_help() {
   cat <<- EOF
 
+  [https://github.com/stefanmaric/g]
+
+  A simple go version manager, gluten-free.
+
   Usage: g [COMMAND] [options] [args]
 
   Commands:
